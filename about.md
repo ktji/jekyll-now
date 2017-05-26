@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Data Scientist | Data Analyst | Skier and Dancer
+Data Scientist, Data Analyst, Skier and Dancer💃
 
 ### More Information
 
