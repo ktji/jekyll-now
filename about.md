@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Data Scientist | Data Analyst | Skier and Dancer
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Katie Ji is curious about all things in data, technology, and media, and passionate about providing data-driven, actionable and scalable business insights.
+Having worked at a tech start-up for 2+ years, Katie is adaptable and energetic at heart that strives to make a positive impact within a team. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[katiechenyiji@gmail.com](mailto:email@domain.com)
