@@ -532,7 +532,7 @@ axes[1].set_title('Days on Billboard');
 ```
 
 
-![png](output_20_0.png)
+![png](../images/output_20_0.png)
 
 
 
@@ -559,7 +559,7 @@ print model.score(X,y)
 
 
 
-![png](output_21_2.png)
+![png](../images/output_21_2.png)
 
 
 
