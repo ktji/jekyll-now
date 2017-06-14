@@ -457,7 +457,7 @@ plt.title('Number of ads viewed by hour', fontsize=14);
 ```
 
 
-![png](output_39_0.png)
+![png](../images/output_39_0.png)
 
 
 
@@ -474,7 +474,7 @@ plt.title('Number of ads viewed by date', fontsize=14);
 ```
 
 
-![png](output_40_0.png)
+![png](../images/output_40_0.png)
 
 
 
@@ -507,7 +507,7 @@ plt.title('Number of ads viewed by day', fontsize=14);
 ```
 
 
-![png](output_44_0.png)
+![png](../images/output_44_0.png)
 
 
 ### 3. Impressions by document
@@ -717,7 +717,7 @@ for i in range(3):
 
 
 
-![png](output_63_1.png)
+![png](../images/output_63_1.png)
 
 
 
@@ -1141,7 +1141,7 @@ plt.title('Ad Impression by location', fontsize=14);
 ```
 
 
-![png](output_78_0.png)
+![png](../images/output_78_0.png)
 
 
 ## Documents
@@ -1322,7 +1322,7 @@ for i in [10, 1000, 10000, 50000, 100000,500000]:
 
 
 
-![png](output_94_1.png)
+![png](../images/output_94_1.png)
 
 
 ### 2. Topics
@@ -1499,7 +1499,7 @@ plt.title('Topic occurences', fontsize=14);
 
 
 
-![png](output_101_1.png)
+![png](../images/output_101_1.png)
 
 
 ### 3. Bucket confidence level
