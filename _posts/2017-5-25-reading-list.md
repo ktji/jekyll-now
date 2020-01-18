@@ -22,3 +22,7 @@ I will keep updating my reading list...
 1. [Time Series](https://www.otexts.org/fpp/8/1)
 2. [Esty - Discovering Unique Interests with Latent Variable Models in Large Scale Social E-commerce](https://mimno.infosci.cornell.edu/info6150/readings/p1640-hu.pdf)
 3. [Vader](http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf)
+
+
+### Book
+1. [Data Smart](https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X)
